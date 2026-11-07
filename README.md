@@ -84,12 +84,20 @@ Program akan menampilkan menu utama SmartHome IoT System pada terminal.
 
 ### C. Pengendalian Lampu Pintar
 
-![Pengendalian Lampu Pintar](screenshots/lampu-pintar.png)
+![ON/OFF Lampu Pintar](screenshots/lampu-pintar.png)
+![Tingkat Kecerahan Lampu Pintar](screenshots/kecerahan_lampu-pintar.png)
 
 ### D. Pengendalian Kamera Keamanan
 
 ![Pengendalian Kamera Keamanan](screenshots/kamera-keamanan.png)
 
+### E. Informasi Perangkat
+
+![Informasi Perangkat](screenshots/info-perangkat.png)
+
+### F. Koneksi Perangkat
+
+![Koneksi Perangkat](screenshots/koneksi-perangkat.png)
 ---
 
 Program ini merupakan simulasi sistem SmartHome berbasis Java dan belum terhubung dengan perangkat keras IoT secara langsung.
