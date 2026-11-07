@@ -1,22 +1,22 @@
 # SMART HOME IoT SYSTEM
 
-## 1. Identitas Mahasiswa
+## 1. Identitas
 
 | Keterangan | Identitas                |
-|------------|--------------------------|
-| Nama       | Zuvika Dwi Yustina       |
-| NIM        | H1D025124                |
-| Shift KRS  | I                        |
+|--------|--------------------------|
+| Nama   | Zuvika Dwi Yustina       |
+| NIM    | H1D025124                |
+| Shift KRS | I                        |
 | Shift Baru | G                        |
-| Tema NIM   | IoT (Internet of Things) |
+| Tema   | IoT (Internet of Things) |
 
 ## 2. Deskripsi Program
 
 SmartHome IoT System merupakan program simulasi berbasis Java yang menggambarkan sistem rumah pintar (Smart Home) dengan tiga perangkat IoT, yaitu:
 
-1. **Sensor Suhu** – Memantau suhu ruangan dan memberikan informasi kondisi suhu.
-2. **Lampu Pintar** – Mengatur kondisi lampu serta tingkat kecerahan.
-3. **Kamera Keamanan** – Mengendalikan perekaman dan mode malam kamera.
+1. **Sensor Suhu**: Memantau suhu ruangan dan memberikan informasi kondisi suhu.
+2. **Lampu Pintar**: Mengatur kondisi lampu serta tingkat kecerahan.
+3. **Kamera Keamanan**: Mengendalikan perekaman dan mode malam kamera.
 
 Program dijalankan melalui terminal atau command prompt menggunakan menu interaktif.
 
