@@ -2,13 +2,13 @@
 
 ## 1. Identitas Mahasiswa
 
-| Keterangan | Identitas                      |
-|---|--------------------------------|
-| Nama | Zuvika Dwi Yustina             |
-| NIM | H1D025124                      |
-| Program Studi | Informatika                    |
-| Universitas | Universitas Jenderal Soedirman |
-| Tema NIM | IoT (Internet of Things)       |
+| Keterangan | Identitas                |
+|------------|--------------------------|
+| Nama       | Zuvika Dwi Yustina       |
+| NIM        | H1D025124                |
+| Shift KRS  | I                        |
+| Shift Baru | G                        |
+| Tema NIM   | IoT (Internet of Things) |
 
 ## 2. Deskripsi Program
 
@@ -92,4 +92,4 @@ Program akan menampilkan menu utama SmartHome IoT System pada terminal.
 
 ---
 
-**Catatan:** Program ini merupakan simulasi sistem SmartHome berbasis Java dan belum terhubung dengan perangkat keras IoT secara langsung.
+Program ini merupakan simulasi sistem SmartHome berbasis Java dan belum terhubung dengan perangkat keras IoT secara langsung.
